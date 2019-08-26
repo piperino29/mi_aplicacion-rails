@@ -13,3 +13,11 @@ fg = para cambiar a primer plano es fg mas el numero del trabajo
 
 rake routes = permite ver las rutas creadas
 <%= link_to "Inicio", root_path%> = permite crear link con referencias a otras paginas
+
+
+
+
+git add user.name 
+git add user.email  
+
+rails new "" crear directorio de carpeta
