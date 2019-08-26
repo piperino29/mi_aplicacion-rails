@@ -1,24 +1,6 @@
-# README
+# Primera en rails 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Esta es una app de pinterest hecha en Rails para 
+[*piperino29*](https://oja.la)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Realizado por: Felipe
